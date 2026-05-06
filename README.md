@@ -8,11 +8,12 @@ O foco deste módulo é entender como as aplicações web se estruturam por baix
 
 ## 📌 Sumário
 1. [💡 Dicas para o Módulo](#-dicas-para-o-módulo)
-2. [📋 Requisitos Funcionais e Não Funcionais](requisitos.md)
-3. [🔄 Fluxo de Requisição e Endpoints](#-fluxo-de-requisição-e-endpoints)
-4. [📑 RTM (Requirements Traceability Matrix)](#-rtm-requirements-traceability-matrix)
-5. [🏗️ Arquitetura MVC](arquitetura_camadas.md)
-6. [📄 Dicas de WAD (Web App Documentation)](#-dicas-de-wad-web-app-documentation)
+2. [🏗️ Arquitetura MVC](arquitetura_camadas.md)
+3. [📋 Requisitos Funcionais e Não Funcionais](requisitos.md)
+4. [Modelagem de Dados e Banco de Dados](modelagem_software.md)
+5. [🔄 Fluxo de Requisição e Endpoints](#-fluxo-de-requisição-e-endpoints)
+6. [📑 RTM (Requirements Traceability Matrix)](#-rtm-requirements-traceability-matrix) 
+7. [📄 Dicas de WAD (Web App Documentation)](#-dicas-de-wad-web-app-documentation)
 ---
 
 ## 💡 Dicas para o Módulo
