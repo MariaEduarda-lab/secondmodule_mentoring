@@ -313,6 +313,10 @@ Exemplo:
 
 ---
 
+* Exemplo de diagrama (aleatório, não é o oficial do Kombinado):
+
+![alt text](./assets/mer.png)
+
 # 4. Diagrama de Entidade e Relacionamento (DER)
 
 ## Para que serve
