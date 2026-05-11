@@ -80,4 +80,17 @@ Uma boa **Web App Documentation** é o mapa do seu projeto. O que não pode falt
 
 ---
 
+## Vídeos do Afonso que podem ajudar:
+
+[Setup de Máquina com Node + VSCode e Supabase](https://youtu.be/KFaPPwKmNhQ?si=qMvrIrOub7a76GiP)
+[Como conectar nossa arquitetura com banco de dados](https://youtu.be/_iUuW_JTzcc?si=Ehz79EJy0bhHOHi8)
+[Conectar um Banco de Dados na Nuvem com DBeaver](https://youtu.be/6NlYK5UU99c?si=pv7joCtEyy-vS_x4)
+[Aula de Rotas e Controllers](https://www.youtube.com/live/uhrL3Lm0Et4?si=5sBwUC3sLrclZ21s)
+[GitFlow Módulo 2](https://www.youtube.com/live/-nbwtsIwbpg?si=RfqgS63pe8CEQgCS)
+[Tutorial Completo - Node + EJS](https://www.youtube.com/live/JLS8XDgJzNY?si=XCRyGHhXQwJIzryT)
+[Modelando um Banco de Dados com MermaidJS](https://www.youtube.com/live/W6Ik2ZnBkDg?si=LNVM277W2pqUZTHg)
+[Criando um Projeto NodeJS](https://www.youtube.com/live/1X_3RN26viY?si=BSNZtSOdrHUp1zp7)
+
+--- 
+
 ✉️ **Dúvidas?** Procure o monitor durante os horários de atendimento ou abra uma *Issue* aqui no repositório!
